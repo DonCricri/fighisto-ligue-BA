@@ -1,0 +1,17 @@
+{
+ "ligue": "Ligue Bolt Action du club - saison 2026",
+ "exported": "2026-09-07T06:39:17.083Z",
+ "parties_jouees": 1,
+ "resume": [
+  "M3 Ronde 1 — Vincent vs Sylvain (Fort du Roupel, ligne Metaxás) : victoire de Vincent"
+ ],
+ "results": {
+  "M3": {
+   "result": "A",
+   "ga": 6,
+   "pa": 4,
+   "pb": 6,
+   "gb": 4
+  }
+ }
+}
