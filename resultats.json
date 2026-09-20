@@ -1,9 +1,10 @@
 {
  "ligue": "Ligue Bolt Action du club - saison 2026",
- "exported": "2026-09-07T06:39:17.083Z",
- "parties_jouees": 1,
+ "exported": "2026-09-20T16:27:28.590Z",
+ "parties_jouees": 2,
  "resume": [
-  "M3 Ronde 1 — Vincent vs Sylvain (Fort du Roupel, ligne Metaxás) : victoire de Vincent"
+  "M3 Ronde 1 — Vincent vs Sylvain (Fort du Roupel, ligne Metaxás) : victoire de Vincent",
+  "M14 Ronde 4 — Sandro vs Mark (Usine Barrikady, quartier des usines de Stalingrad) : victoire de Sandro"
  ],
  "results": {
   "M3": {
@@ -12,6 +13,13 @@
    "pa": 4,
    "pb": 6,
    "gb": 4
+  },
+  "M14": {
+   "result": "A",
+   "ga": 2,
+   "gb": 1,
+   "pa": 1,
+   "pb": 2
   }
  }
 }
