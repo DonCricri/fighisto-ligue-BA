@@ -1,10 +1,12 @@
 {
  "ligue": "Ligue Bolt Action du club - saison 2026",
- "exported": "2026-10-27T12:11:09.131Z",
- "parties_jouees": 4,
+ "exported": "2026-11-11T07:03:59.424Z",
+ "parties_jouees": 6,
  "resume": [
   "M1 Ronde 1 — Tom vs Mark (Mozdok, vallée du Terek) : victoire de Mark",
   "M3 Ronde 1 — Vincent vs Sylvain (Fort du Roupel, ligne Metaxás) : victoire de Vincent",
+  "M4 Ronde 1 — Alain vs Gaetan (Bir el Gubi) : victoire de Gaetan",
+  "M5 Ronde 2 — Tom vs Brubru (Bir Hakeim) : victoire de Tom",
   "M14 Ronde 4 — Sandro vs Mark (Usine Barrikady, quartier des usines de Stalingrad) : victoire de Sandro",
   "M16 Ronde 4 — Alain vs Sylvain (Kalpáki, front Elaia — Kalamas) : victoire d'Alain"
  ],
@@ -36,6 +38,20 @@
    "gb": 6,
    "pb": 7,
    "pa": 6
+  },
+  "M5": {
+   "result": "A",
+   "pa": 1,
+   "ga": 9,
+   "gb": 1,
+   "pb": 9
+  },
+  "M4": {
+   "result": "B",
+   "ga": 1,
+   "gb": 5,
+   "pa": 5,
+   "pb": 1
   }
  }
 }
